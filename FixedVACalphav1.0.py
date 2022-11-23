@@ -44,7 +44,6 @@ def one():
 
 
 
-
 def two():
     inp()
     while ft == False:
